@@ -6,7 +6,7 @@
     <title>Google Maps JavaScript API Example</title>
     <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAAF9OIz4Ymz5wVNE1asY5JEhTJQa0g3IQ9GZqIMmInSLzwtGDKaBSoRog3DdQwXQfqoR9phfyEkUqY3A&sensor=true_or_false"
             type="text/javascript"></script>
-    <%=javascript_include_tag 'prototype', 'application'%>
+    <%=javascript_include_tag 'prototype', 'application' %>
 <script type="text/javascript">
      var markers = [
     {
